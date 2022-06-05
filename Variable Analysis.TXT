@@ -1,0 +1,21 @@
+Log_latest_price - log transform of latest price in original data set
+Brand - Who made the laptop
+Processor_brand - Who made the processor
+Processor_name - Name of the procesor
+Ram_type - What kind of RAM it is
+OS - Operating System
+os_bit - Operating system bit
+graphic_card_gb - amount of gigabytes on the graphics card
+Weight - Weight of the laptop 
+Display_size - how big is the display
+Warranty - how many years of insurance is on the laptop 
+Touchscreen - Is the laptop touch screen
+msoffice - does it include microsoft office 
+star_rating - overall rating of laptop out of 5
+ratings - how many ratings does the laptop have
+reviews - how many reviews does the laptop have
+Display_size_given - coded to yes or no to see if display column is N/A or not
+ram_gb_cat - coded to less than or greater than 8 based on Ram_type 
+ssd_ cat - coded to less than or greater than 1 gb based on SSD moun 
+hdd_cat - coded to either high or low based on the hdd variable
+Cluster- which cluster was the laptop put in to. 
